@@ -3,7 +3,7 @@
 # Yağız / Ast1va
 
 **Software Developer**  
-Building practical tools, learning by shipping, and contributing to open source.
+Building practical tools, improving workflows, and contributing to open source.
 
 </div>
 
@@ -11,28 +11,28 @@ Building practical tools, learning by shipping, and contributing to open source.
 
 ### About
 
-I focus on building clean, useful, and maintainable software.  
-Currently working with **Python**, **JavaScript**, **React**, and **Streamlit**.
+I enjoy building simple, useful, and maintainable software.
 
-I enjoy turning ideas into simple tools, improving existing projects, and learning through real-world development.
-
----
-
-### Tech
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,git,github,vscode,linux&perline=7" />
-</p>
+My focus is on practical applications, automation, and tools that solve real problems.  
+I’m especially interested in projects where software improves an existing workflow or makes a process easier to manage.
 
 ---
 
-### Focus
+### Currently focused on
 
-- Developer tools
-- Automation
-- Web applications
+- Python desktop and utility applications
+- Quality control and workflow tools
 - Open source contributions
-- Quality-focused software
+- Clean and practical user interfaces
+- Learning by building real projects
+
+---
+
+### Selected work
+
+- Working on a quality control tool inspired by acceptance sampling workflows
+- Contributing improvements to open source projects
+- Building small tools and interfaces to solve practical problems
 
 ---
 
