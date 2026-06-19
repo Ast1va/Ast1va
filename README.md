@@ -1,8 +1,8 @@
 <div align="center">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ya%C4%9F%C4%B1z;Software+Developer;Open+Source+Contributor" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ya%C4%9F%C4%B1z;Software+Developer;Open+Source+Contributor" />
+
+<br>
 
 **Software Developer** • **Open Source Contributor**
 
@@ -48,14 +48,6 @@ Building software, contributing to open source, and continuously learning.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ast1va&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ast1va/Ast1va/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
