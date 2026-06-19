@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ast1va/Ast1va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ya%C4%9F%C4%B1z;Software+Developer;Open+Source+Contributor" />
+</p>
 
-Here are some ideas to get you started:
+**Software Developer** • **Open Source Contributor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building software, contributing to open source, and continuously learning.
+
+<br>
+
+<a href="https://github.com/Ast1va">
+  <img src="https://img.shields.io/badge/GitHub-@Ast1va-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Building applications with **Python**, **React**, and **JavaScript**
+- 🌱 Always learning new technologies
+- 🛠 Interested in automation, developer tools, and quality-focused software
+- 🤝 Open to open-source collaboration
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,ts,git,github,vscode,linux&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ast1va&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ast1va&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ast1va&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ast1va/Ast1va/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<div align="center">
+
+*"Code. Learn. Improve."*
+
+</div>
