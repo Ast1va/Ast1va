@@ -1,59 +1,45 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ya%C4%9F%C4%B1z;Software+Developer;Open+Source+Contributor" />
+# Yağız / Ast1va
 
-<br>
-
-**Software Developer** • **Open Source Contributor**
-
-Building software, contributing to open source, and continuously learning.
-
-<br>
-
-<a href="https://github.com/Ast1va">
-  <img src="https://img.shields.io/badge/GitHub-@Ast1va-181717?style=for-the-badge&logo=github">
-</a>
+**Software Developer**  
+Building practical tools, learning by shipping, and contributing to open source.
 
 </div>
 
 ---
 
-## 🚀 About Me
+### About
 
-- 💻 Building applications with **Python**, **React**, and **JavaScript**
-- 🌱 Always learning new technologies
-- 🛠 Interested in automation, developer tools, and quality-focused software
-- 🤝 Open to open-source collaboration
+I focus on building clean, useful, and maintainable software.  
+Currently working with **Python**, **JavaScript**, **React**, and **Streamlit**.
+
+I enjoy turning ideas into simple tools, improving existing projects, and learning through real-world development.
 
 ---
 
-## 🧰 Tech Stack
+### Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,ts,git,github,vscode,linux&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,git,github,vscode,linux&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ast1va&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ast1va&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ast1va&theme=transparent&hide_border=true"/>
-</p>
+- Developer tools
+- Automation
+- Web applications
+- Open source contributions
+- Quality-focused software
 
 ---
 
-<div align="center">
+### Connect
 
-*"Code. Learn. Improve."*
-
-</div>
+<p>
+  <a href="https://github.com/Ast1va">
+    <img src="https://img.shields.io/badge/GitHub-Ast1va-181717?style=flat-square&logo=github" />
+  </a>
+</p>
