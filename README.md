@@ -10,9 +10,6 @@ building practical tools with clean interfaces.
 <a href="https://github.com/Ast1va">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://sptfy.bio/yagiz">
-  <img src="https://img.shields.io/badge/Links-ffffff?style=for-the-badge&logo=linktree&logoColor=111111" />
-</a>
 
 </div>
 
