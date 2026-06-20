@@ -1,45 +1,39 @@
 <div align="center">
 
-# Yağız / Ast1va
+# Ast1va
 
-**Software Developer**  
-Building practical tools, improving workflows, and contributing to open source.
+**Software Developer**
+building practical tools with clean interfaces.
+
+<br/>
+
+<a href="https://github.com/Ast1va">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://sptfy.bio/yagiz">
+  <img src="https://img.shields.io/badge/Links-ffffff?style=for-the-badge&logo=linktree&logoColor=111111" />
+</a>
 
 </div>
 
----
+<br/>
 
-### About
+```txt
+focus     clean interfaces · practical tools · open source
+stack     python · typescript · react native · c# · fastapi
+mindset   simple, useful, maintainable
+```
 
-I enjoy building simple, useful, and maintainable software.
+<br/>
 
-My focus is on practical applications, automation, and tools that solve real problems.  
-I’m especially interested in projects where software improves an existing workflow or makes a process easier to manage.
+I like building software that feels simple on the outside, but solves real problems underneath.
 
----
+Most of my work is around desktop utilities, mobile apps, machine learning experiments, and small tools that improve everyday workflows.
 
-### Currently focused on
+<br/>
 
-- Python desktop and utility applications
-- Quality control and workflow tools
-- Open source contributions
-- Clean and practical user interfaces
-- Learning by building real projects
+<div align="center">
 
----
+`Python` · `TypeScript` · `React Native` · `Firebase` · `C#` · `.NET` · `FastAPI`
 
-### Selected work
-
-- Working on a quality control tool inspired by acceptance sampling workflows
-- Contributing improvements to open source projects
-- Building small tools and interfaces to solve practical problems
-
----
-
-### Connect
-
-<p>
-  <a href="https://github.com/Ast1va">
-    <img src="https://img.shields.io/badge/GitHub-Ast1va-181717?style=flat-square&logo=github" />
-  </a>
-</p>
+</div>
